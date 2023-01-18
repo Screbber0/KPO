@@ -1,0 +1,8 @@
+1, sergey, chesnokov, 19, rus
+2, nik, chesnokov, 16, rus
+3, anna, denisova, 21, rus
+4, anton, red, 22, eng
+4, liz, qwerty, 18, eng
+6, kim, chen, 40, ch
+6, maria, loft, 19, rus
+7, alex, chest, 9, rus
